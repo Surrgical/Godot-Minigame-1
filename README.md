@@ -1,5 +1,5 @@
 # Godot Minigame 1
 ## Devlog
-Write your Devlog here.
+To me, nodes are like lego blocks while scenes are like lego sets. Each node is like a singular building block in a lego set and each block has a specific task and function. The lego blocks or the nodes are the smallest building blocks in GODOT and can only paint a picture when attached and utilized together. A scene is like a complete lego set because they are made of many lego bricks, or in this case nodes, and you can build a variety of different scenes. Furthermore, you can combine multiple scenes to make an even bigger functioning scene. For example you can combine multiple lego sets of different houses to make a lego city. Additionally, if you were to have made a lego house out of a bunch of lego blocks, when you move the house all of the blocks will move with it, which is parallel to how all the nodes move with the parent scene.
 ## Open-source assets
 - [KayKit Platformer Pack](https://kaylousberg.itch.io/kaykit-platformer) - 3D assets for level design
